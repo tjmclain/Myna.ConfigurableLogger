@@ -1,0 +1,16 @@
+{
+    "name": "Myna.ConfigurableLogger",
+    "rootNamespace": "Myna.DebugUtilities",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "MYNA_CONFIGURABLE_LOGGER"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
